@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Nome da Faculdade: Unifan");
         System.out.println("Nome do Aluno: Valcio Vasconcelos Junior");
         System.out.println("Nome do Professor: Brenno");
-        System.out.println("Bem-vindo ao Quiz sobre: Ciência e Tecnologia");
+        System.out.println("Bem-vindo ao Quiz sobre: Ciência ");
         System.out.println("Você responderá 15 perguntas de múltipla escolha.");
         System.out.println("***************************************\n");
 
