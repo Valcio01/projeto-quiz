@@ -24,7 +24,7 @@ public class Main {
         questoes[6] = new Questao("Qual é a camada mais externa da Terra?", "A) Núcleo", "B) Manto", "C) Crosta", "D) Litosfera", "E) Estratosfera", "C");
         questoes[7] = new Questao("Qual é o elemento químico com símbolo O?", "A) Oxigênio", "B) Ouro", "C) Ouroboros", "D) Ósmio", "E) Oxônio", "A");
         questoes[8] = new Questao("Qual planeta é conhecido como o Planeta Vermelho?", "A) Marte", "B) Vênus", "C) Júpiter", "D) Saturno", "E) Urano", "A");
-        questoes[9] = new Questao("Quem descobriu a penicilina?", "A) Louis Pasteur", "B) Alexander Fleming", "C) Robert Koch", "D) Edward Jenner", "E) Jonas Salk", "B");
+        questoes[9] = new Questao("Qual é o único metal líquido em temperatura ambiente?", "A) Mercúrio", "B) Césio", "C) Potássio", "D) Ouro", "E) Prata", "A");
         questoes[10] = new Questao("Qual é a fórmula química da água?", "A) H2O", "B) CO2", "C) NaCl", "D) O2", "E) CH4", "A");
         questoes[11] = new Questao("Qual é o maior oceano do mundo?", "A) Oceano Pacífico", "B) Oceano Atlântico", "C) Oceano Índico", "D) Oceano Ártico", "E) Oceano Antártico", "A");
         questoes[12] = new Questao("Quem é o autor da teoria da relatividade?", "A) Isaac Newton", "B) Albert Einstein", "C) Niels Bohr", "D) Galileo Galilei", "E) Stephen Hawking", "B");
