@@ -9,14 +9,14 @@ public class Main {
         System.out.println("Nome da Faculdade: Unifan");
         System.out.println("Nome do Aluno: Valcio Vasconcelos Junior");
         System.out.println("Nome do Professor: Brenno");
-        System.out.println("Bem-vindo ao Quiz sobre: Ciência ");
+        System.out.println("Bem-vindo ao Quiz sobre: Ciência");
         System.out.println("Você responderá 15 perguntas de múltipla escolha.");
         System.out.println("***************************************\n");
 
         // Array com 15 questões
         Questao[] questoes = new Questao[15];
         questoes[0] = new Questao("Qual o maior planeta do Sistema Solar?", "A) Terra", "B) Marte", "C) Júpiter", "D) Saturno", "E) Vênus", "C");
-        questoes[1] = new Questao("Quem é considerado o pai da computação?", "A) Charles Babbage", "B) Alan Turing", "C) Steve Jobs", "D) Bill Gates", "E) Ada Lovelace", "A");
+        questoes[1] = new Questao("Qual é o planeta mais quente do sistema solar?", "A) Mercúrio", "B) Vênus", "C) Marte", "D) Júpiter", "E) Saturno", "B");
         questoes[2] = new Questao("Qual é o símbolo químico do Ouro?", "A) Au", "B) Ag", "C) Pb", "D) Fe", "E) Hg", "A");
         questoes[3] = new Questao("Qual tecnologia é usada pela maioria das criptomoedas?", "A) Blockchain", "B) Computação em Nuvem", "C) Inteligência Artificia", "D) Internet das Coisas", "E) Realidade Aumentada", "A");
         questoes[4] = new Questao("Qual componente do computador faz cálculos e processa dados?", "A) RAM", "B) GPU", "C) CPU", "D) HDD", "E) SSD", "C");
