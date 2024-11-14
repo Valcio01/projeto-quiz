@@ -29,7 +29,7 @@ public class Main {
         questoes[11] = new Questao("Qual animal é conhecido como o mais venenoso do mundo?", "A) Cobra-real", "B) Água-viva-caixa", "C) Aranha-marrom", "D) Escorpião", "E) Baiacu", "B");
         questoes[12] = new Questao("Quem é o autor da teoria da relatividade?", "A) Isaac Newton", "B) Albert Einstein", "C) Niels Bohr", "D) Galileo Galilei", "E) Stephen Hawking", "B");
         questoes[13] = new Questao("Qual é o maior animal terrestre?", "A) Elefante Africano", "B) Baleia Azul", "C) Girafa", "D) Hipopótamo", "E) Rinoceronte", "A");
-        questoes[14] = new Questao("Qual projeto é um sistema operacional gratuito e de código aberto?", "A) Windows", "B) macOS", "C) Linux", "D) Solaris", "E) BSD", "C");
+        questoes[14] = new Questao("Qual é o país mais antigo do mundo ainda existente?", "A) China", "B) Egito", "C) Grécia", "D) Japão", "E) Irã", "A");
 
         int acertos = 0;
         int erros = 0;
