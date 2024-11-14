@@ -21,7 +21,7 @@ public class Main {
         questoes[3] = new Questao("Qual é o oceano mais profundo do mundo?", "A) Atlântico", "B) Índico", "C) Ártico", "D) Pacífico", "E) Antártico", "D");
         questoes[4] = new Questao("Quantos planetas há no sistema solar?", "A) 7", "B) 8", "C) 9", "D) 10", "E) 6", "B");
         questoes[5] = new Questao("Em que ano o homem pisou na Lua pela primeira vez?", "A) 1969", "B) 1971", "C) 1965", "D) 1967", "E) 1973", "A");
-        questoes[6] = new Questao("Qual tecnologia permite a comunicação sem fio entre dispositivos próximos?", "A) Bluetooth", "B) NFC", "C) Wi-Fi", "D) Zigbee", "E) Infrared", "A");
+        questoes[6] = new Questao("Qual é a camada mais externa da Terra?", "A) Núcleo", "B) Manto", "C) Crosta", "D) Litosfera", "E) Estratosfera", "C");
         questoes[7] = new Questao("Qual é o elemento químico com símbolo O?", "A) Oxigênio", "B) Ouro", "C) Ouroboros", "D) Ósmio", "E) Oxônio", "A");
         questoes[8] = new Questao("Qual planeta é conhecido como o Planeta Vermelho?", "A) Marte", "B) Vênus", "C) Júpiter", "D) Saturno", "E) Urano", "A");
         questoes[9] = new Questao("Quem descobriu a penicilina?", "A) Louis Pasteur", "B) Alexander Fleming", "C) Robert Koch", "D) Edward Jenner", "E) Jonas Salk", "B");
