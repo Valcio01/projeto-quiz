@@ -48,7 +48,7 @@ public class Main {
 
         // Resultados finais
         System.out.println("***************************************");
-        System.out.println("Parabéns,quiz finalizado");
+        System.out.println("Parabéns,você finalizou o quiz!");
         System.out.println("Acertos: " + acertos);
         System.out.println("Erros: " + erros);
         double porcentagem = (acertos / 15.0) * 100;
